@@ -7,3 +7,4 @@ def root():
 @app.route('/greet')
 def greet(name):
 	return "Hello" + name"
+
